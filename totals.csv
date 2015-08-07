@@ -1,0 +1,219 @@
+"Country";"Rate";"Count";"Region";"Subregion";"Year"
+"Burundi";8;160;"Africa";"Eastern Africa";2012
+"Comoros";10;155;"Africa";"Eastern Africa";2012
+"Djibouti";10.1;167;"Africa";"Eastern Africa";2012
+"Eritrea";7.1;115;"Africa";"Eastern Africa";2012
+"Ethiopia";12;27;"Africa";"Eastern Africa";2012
+"Kenya";6.4;71;"Africa";"Eastern Africa";2012
+"Madagascar";11.1;65;"Africa";"Eastern Africa";2012
+"Malawi";1.8;85;"Africa";"Eastern Africa";2012
+"Mauritius";2.8;97;"Africa";"Eastern Africa";2011
+"Mayotte (France)";6;30;"Africa";"Eastern Africa";2009
+"Mozambique";12.4;90;"Africa";"Eastern Africa";2012
+"Réunion (France)";1.8;49;"Africa";"Eastern Africa";2009
+"Rwanda";23.1;68;"Africa";"Eastern Africa";2012
+"Seychelles";9.5;169;"Africa";"Eastern Africa";2012
+"Somalia";8;165;"Africa";"Eastern Africa";2012
+"South Sudan";13.9;16;"Africa";"Eastern Africa";2012
+"Uganda";10.7;92;"Africa";"Eastern Africa";2011
+"Tanzania";12.7;136;"Africa";"Eastern Africa";2012
+"Zambia";10.7;15;"Africa";"Eastern Africa";2012
+"Zimbabwe";10.6;13;"Africa";"Eastern Africa";2012
+"Angola";10;62;"Africa";"Middle Africa";2012
+"Cameroon";7.6;18;"Africa";"Middle Africa";2012
+"Central African Republic";11.8;128;"Africa";"Middle Africa";2012
+"Chad";7.3;170;"Africa";"Middle Africa";2012
+"Congo";12.5;130;"Africa";"Middle Africa";2012
+"Democratic Republic of the Congo";28.3;55;"Africa";"Middle Africa";2012
+"Equatorial Guinea";19.3;46;"Africa";"Middle Africa";2012
+"Gabon";9.1;48;"Africa";"Middle Africa";2012
+"Sao Tome and Principe";3.3;134;"Africa";"Middle Africa";2011
+"Algeria";0.7;87;"Africa";"Northern Africa";2011
+"Egypt";3.4;70;"Africa";"Northern Africa";2011
+"Libya";1.7;24;"Africa";"Northern Africa";2012
+"Morocco";2.2;152;"Africa";"Northern Africa";2012
+"Sudan";11.2;108;"Africa";"Northern Africa";2012
+"Tunisia";2.2;78;"Africa";"Northern Africa";2012
+"Botswana";18.4;101;"Africa";"Southern Africa";2012
+"Lesotho";38;157;"Africa";"Southern Africa";2010
+"Namibia";17.2;104;"Africa";"Southern Africa";2012
+"South Africa";31;52;"Africa";"Southern Africa";2012
+"Swaziland";33.8;112;"Africa";"Southern Africa";2012
+"Benin";8.4;166;"Africa";"Western Africa";2012
+"Burkina Faso";8;12;"Africa";"Western Africa";2012
+"Cape Verde";10.3;126;"Africa";"Western Africa";2012
+"Ivory Coast";13.6;69;"Africa";"Western Africa";2012
+"Gambia";10.2;56;"Africa";"Western Africa";2012
+"Ghana";6.1;17;"Africa";"Western Africa";2012
+"Guinea";8.9;3;"Africa";"Western Africa";2012
+"Guinea-Bissau";8.4;44;"Africa";"Western Africa";2012
+"Liberia";3.2;40;"Africa";"Western Africa";2012
+"Mali";7.5;8;"Africa";"Western Africa";2012
+"Mauritania";5;59;"Africa";"Western Africa";2012
+"Niger";4.7;164;"Africa";"Western Africa";2012
+"Nigeria";20;96;"Africa";"Western Africa";2012
+"Senegal";2.8;103;"Africa";"Western Africa";2012
+"Sierra Leone";1.9;29;"Africa";"Western Africa";2012
+"Togo";10.3;148;"Africa";"Western Africa";2012
+"Anguilla (UK)";7.5;2;"Americas";"Caribbean";2012
+"Antigua and Barbuda";11.2;23;"Americas";"Caribbean";2012
+"Aruba (Netherlands)";3.9;107;"Americas";"Caribbean";2010
+"Bahamas";29.8;28;"Americas";"Caribbean";2012
+"Barbados";7.4;74;"Americas";"Caribbean";2012
+"British Virgin Islands (UK)";8.4;61;"Americas";"Caribbean";2006
+"Cayman Islands (UK)";14.7;161;"Americas";"Caribbean";2009
+"Cuba";4.2;121;"Americas";"Caribbean";2012
+"Dominica";21.1;49;"Americas";"Caribbean";2010
+"Dominican Republic";22.1;64;"Americas";"Caribbean";2012
+"Grenada";13.3;41;"Americas";"Caribbean";2012
+"Guadeloupe (France)";7.9;99;"Americas";"Caribbean";2009
+"Haiti";10.2;4;"Americas";"Caribbean";2012
+"Jamaica";39.3;6;"Americas";"Caribbean";2012
+"Martinique (France)";2.7;26;"Americas";"Caribbean";2009
+"Montserrat (UK)";20.4;2;"Americas";"Caribbean";2008
+"Puerto Rico (US)";26.5;174;"Americas";"Caribbean";2012
+"Saint Kitts and Nevis";33.6;54;"Americas";"Caribbean";2012
+"Saint Lucia";21.6;105;"Americas";"Caribbean";2012
+"Saint Vincent and the Grenadines";25.6;86;"Americas";"Caribbean";2012
+"Trinidad and Tobago";28.3;103;"Americas";"Caribbean";2012
+"Turks and Caicos Islands (UK)";6.6;61;"Americas";"Caribbean";2009
+"United States Virgin Islands (US)";52.6;133;"Americas";"Caribbean";2010
+"Belize";44.7;47;"Americas";"Central America";2012
+"Costa Rica";8.5;110;"Americas";"Central America";2012
+"El Salvador";41.2;66;"Americas";"Central America";2012
+"Guatemala";39.9;135;"Americas";"Central America";2012
+"Honduras";90.4;151;"Americas";"Central America";2012
+"Mexico";21.5;81;"Americas";"Central America";2012
+"Nicaragua";11.3;146;"Americas";"Central America";2012
+"Panama";17.2;142;"Americas";"Central America";2012
+"Bermuda (UK)";7.7;124;"Americas";"Northern America";2012
+"Canada";1.6;131;"Americas";"Northern America";2012
+"Saint Pierre and Miquelon (France)";16.5;2;"Americas";"Northern America";2009
+"United States";4.7;43;"Americas";"Northern America";2012
+"Argentina";5.5;63;"Americas";"South America";2010
+"Bolivia";12.1;10;"Americas";"South America";2012
+"Brazil";25.2;125;"Americas";"South America";2012
+"Chile";3.1;132;"Americas";"South America";2012
+"Colombia";30.8;42;"Americas";"South America";2012
+"Ecuador";12.4;20;"Americas";"South America";2012
+"French Guiana (France)";13.3;93;"Americas";"South America";2009
+"Guyana";17;40;"Americas";"South America";2012
+"Paraguay";9.7;138;"Americas";"South America";2012
+"Peru";9.6;72;"Americas";"South America";2012
+"Suriname";6.1;95;"Americas";"South America";2012
+"Uruguay";7.9;83;"Americas";"South America";2012
+"Venezuela";53.7;51;"Americas";"South America";2012
+"Kazakhstan";7.8;9;"Asia";"Central Asia";2012
+"Kyrgyzstan";9.1;123;"Asia";"Central Asia";2011
+"Tajikistan";1.6;32;"Asia";"Central Asia";2011
+"Turkmenistan";12.8;143;"Asia";"Central Asia";2012
+"Uzbekistan";3.7;5;"Asia";"Central Asia";2012
+"China";1;35;"Asia";"Eastern Asia";2010
+"Hong Kong";0.4;84;"Asia";"Eastern Asia";2012
+"Macao";0.7;107;"Asia";"Eastern Asia";2010
+"North Korea";5.2;11;"Asia";"Eastern Asia";2012
+"Japan";0.3;116;"Asia";"Eastern Asia";2011
+"Mongolia";9.7;82;"Asia";"Eastern Asia";2011
+"South Korea";0.9;113;"Asia";"Eastern Asia";2011
+"Taiwan";3;149;"Asia";"Eastern Asia";2011
+"Brunei";2;161;"Asia";"South-Eastern Asia";2012
+"Cambodia";6.5;172;"Asia";"South-Eastern Asia";2012
+"Indonesia";0.6;14;"Asia";"South-Eastern Asia";2012
+"Laos";5.9;106;"Asia";"South-Eastern Asia";2012
+"Malaysia";2.3;140;"Asia";"South-Eastern Asia";2012
+"Myanmar";15.2;162;"Asia";"South-Eastern Asia";2012
+"Philippines";8.8;163;"Asia";"South-Eastern Asia";2012
+"Singapore";0.2;26;"Asia";"South-Eastern Asia";2012
+"Thailand";5;91;"Asia";"South-Eastern Asia";2011
+"Timor-Leste";3.6;105;"Asia";"South-Eastern Asia";2010
+"Vietnam";3.3;88;"Asia";"South-Eastern Asia";2012
+"Afghanistan";6.5;21;"Asia";"Southern Asia";2012
+"Bangladesh";2.7;109;"Asia";"Southern Asia";2012
+"Bhutan";1.7;30;"Asia";"Southern Asia";2012
+"India";3.5;114;"Asia";"Southern Asia";2012
+"Iran";3.9;89;"Asia";"Southern Asia";2012
+"Maldives";3.9;33;"Asia";"Southern Asia";2012
+"Nepal";2.9;159;"Asia";"Southern Asia";2011
+"Pakistan";7.7;36;"Asia";"Southern Asia";2012
+"Sri Lanka";3.4;153;"Asia";"Southern Asia";2011
+"Armenia";1.8;129;"Asia";"Western Asia";2012
+"Azerbaijan";2.1;60;"Asia";"Western Asia";2010
+"Bahrain";0.5;150;"Asia";"Western Asia";2011
+"Cyprus";2;76;"Asia";"Western Asia";2012
+"Georgia";4.3;58;"Asia";"Western Asia";2010
+"Iraq";8;67;"Asia";"Western Asia";2012
+"Israel";1.8;39;"Asia";"Western Asia";2012
+"Jordan";2;38;"Asia";"Western Asia";2011
+"Kuwait";0.4;30;"Asia";"Western Asia";2012
+"Lebanon";2.2;171;"Asia";"Western Asia";2010
+"Palestine";7.4;94;"Asia";"Western Asia";2012
+"Oman";1.1;97;"Asia";"Western Asia";2011
+"Qatar";1.1;76;"Asia";"Western Asia";2012
+"Saudi Arabia";0.8;77;"Asia";"Western Asia";2012
+"Syria";2.2;119;"Asia";"Western Asia";2010
+"Turkey";2.6;19;"Asia";"Western Asia";2011
+"United Arab Emirates";2.6;78;"Asia";"Western Asia";2012
+"Yemen";4.8;7;"Asia";"Western Asia";2010
+"Belarus";5.1;122;"Europe";"Eastern Europe";2010
+"Bulgaria";1.9;45;"Europe";"Eastern Europe";2012
+"Czech Republic";1;25;"Europe";"Eastern Europe";2012
+"Hungary";1.3;37;"Europe";"Eastern Europe";2012
+"Poland";1.2;117;"Europe";"Eastern Europe";2011
+"Moldova";6.5;75;"Europe";"Eastern Europe";2012
+"Romania";1.7;102;"Europe";"Eastern Europe";2012
+"Russia";9.2;34;"Europe";"Eastern Europe";2012
+"Slovakia";1.4;156;"Europe";"Eastern Europe";2012
+"Ukraine";4.3;22;"Europe";"Eastern Europe";2010
+"Denmark";0.8;120;"Europe";"Northern Europe";2012
+"Estonia";5;139;"Europe";"Northern Europe";2011
+"Finland";1.6;168;"Europe";"Northern Europe";2012
+"Greenland (Denmark)";19.4;26;"Europe";"Northern Europe";2009
+"Iceland";0.3;2;"Europe";"Northern Europe";2012
+"Ireland";1.2;129;"Europe";"Northern Europe";2012
+"Latvia";4.7;173;"Europe";"Northern Europe";2012
+"Lithuania";6.7;73;"Europe";"Northern Europe";2012
+"Norway";2.2;28;"Europe";"Northern Europe";2011
+"Sweden";0.7;147;"Europe";"Northern Europe";2012
+"United Kingdom";1;141;"Europe";"Northern Europe";2011
+"Albania";5;50;"Europe";"Southern Europe";2012
+"Andorra";1.3;2;"Europe";"Southern Europe";2010
+"Bosnia and Herzegovina";1.3;126;"Europe";"Southern Europe";2011
+"Croatia";1.2;126;"Europe";"Southern Europe";2012
+"Greece";1.7;57;"Europe";"Southern Europe";2011
+"Italy";0.9;127;"Europe";"Southern Europe";2012
+"Kosovo";3.6;137;"Europe";"Southern Europe";2010
+"Malta";2.8;30;"Europe";"Southern Europe";2012
+"Montenegro";2.7;53;"Europe";"Southern Europe";2012
+"Portugal";1.2;31;"Europe";"Southern Europe";2012
+"San Marino";0.7;0;"Europe";"Southern Europe";2012
+"Serbia";1.2;28;"Europe";"Southern Europe";2012
+"Slovenia";0.7;41;"Europe";"Southern Europe";2012
+"Spain";0.8;100;"Europe";"Southern Europe";2012
+"Macedonia";1.4;93;"Europe";"Southern Europe";2011
+"Austria";0.9;158;"Europe";"Western Europe";2012
+"Belgium";1.6;56;"Europe";"Western Europe";2012
+"France";1;145;"Europe";"Western Europe";2012
+"Germany";0.8;144;"Europe";"Western Europe";2011
+"Liechtenstein";0;1;"Europe";"Western Europe";2012
+"Luxembourg";0.8;107;"Europe";"Western Europe";2011
+"Monaco";0;1;"Europe";"Western Europe";2008
+"Netherlands";0.9;47;"Europe";"Western Europe";2012
+"Switzerland";0.6;118;"Europe";"Western Europe";2011
+"Australia";1.1;80;"Oceania";"Australasia";2012
+"New Zealand";0.9;111;"Oceania";"Australasia";2012
+"Fiji";4;98;"Oceania";"Melanesia";2012
+"New Caledonia (France)";3.3;161;"Oceania";"Melanesia";2009
+"Papua New Guinea";10.4;154;"Oceania";"Melanesia";2010
+"Solomon Islands";4.3;79;"Oceania";"Melanesia";2012
+"Vanuatu";2.9;150;"Oceania";"Melanesia";2012
+"Guam (US)";2.5;107;"Oceania";"Micronesia";2011
+"Kiribati";8.2;161;"Oceania";"Micronesia";2011
+"Micronesia";4.6;124;"Oceania";"Micronesia";2012
+"Nauru";1.3;0;"Oceania";"Micronesia";2012
+"Palau";3.1;0;"Oceania";"Micronesia";2012
+"Cook Islands";3.1;0;"Oceania";"Polynesia";2012
+"French Polynesia (France)";0.4;2;"Oceania";"Polynesia";2009
+"Niue";3.6;0;"Oceania";"Polynesia";2012
+"Samoa";3.6;150;"Oceania";"Polynesia";2012
+"Tonga";1;2;"Oceania";"Polynesia";2012
+"Tuvalu";4.2;0;"Oceania";"Polynesia";2012

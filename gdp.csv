@@ -1,0 +1,186 @@
+Rank;Country;Int-dolar;Year
+1;Qatar;140;2014
+2;Luxembourg;91,048;2013
+3;Kuwait;83,84;2012
+4;Singapore;78,763;2013
+5;Brunei;71,777;2013
+6;Norway;64,406;2013
+7;United Arab Emirates;59,845;2012
+8; Switzerland;56,95;2013
+9;Saudi Arabia;53,644;2013
+10;United States;53,042;2013
+11;Netherlands;46,162;2013
+12;Ireland;45,684;2013
+13;Austria;45,079;2013
+14;Oman;45,334;2012
+15;Sweden;44,658;2013
+16;Germany;43,884;2013
+17;Bahrain;43,851;2013
+18;Denmark;43,782;2013
+19;Australia;43,202;2013
+20;Canada;42,753;2013
+21;Iceland;41,859;2013
+22;Belgium;41,575;2013
+23;Finland;39,74;2013
+24;United Kingdom;38,259;2013
+25;France;37,532;2013
+26;Japan;36,223;2013
+27;Italy;35,281;2013
+28;New Zealand;34,732;2013
+29;Equatorial Guinea;33,768;2013
+30;Spain;33,094;2013
+31;Korea, South;33,062;2013
+32;Israel;32,491;2013
+33;Trinidad and Tobago;30,446;2013
+34;Malta;29,127;2013
+35;Czech Republic;29,018;2013
+36;Slovenia;28,859;2013
+37;Cyprus;28,225;2013
+38;Portugal;27,804;2013
+39;Slovakia;26,497;2013
+40;Estonia;25,823;2013
+41;Greece;25,667;2013
+42;Lithuania;25,454;2013
+43;Russia;25,248;2013
+44;Seychelles;24,588;2013
+45;Poland;23,69;2013
+46;Malaysia;23,338;2013
+47;Hungary;23,334;2013
+48;Bahamas, The;23,264;2013
+49;Kazakhstan;23,214;2013
+50;Latvia;22,569;2013
+51;Chile;21,942;2013
+52;Saint Kitts and Nevis;21,396;2013
+53;Croatia;21,351;2013
+54;Libya;21,046;2013
+55;Antigua and Barbuda;21,028;2013
+56;Uruguay;19,594;2013
+57;Panama;19,416;2013
+58;Gabon;19,264;2013
+59;Romania;18,974;2013
+60;Cuba;18,796;2011
+61;Turkey;18,783;2013
+62;Venezuela;18,198;2013
+63;Mauritius;17,714;2013
+64;Belarus;17,62;2013
+65;Lebanon;17,174;2013
+66;Azerbaijan;17,143;2013
+67;Mexico;16,37;2013
+68;Suriname;16,071;2013
+69;Botswana;15,752;2013
+70;Bulgaria;15,732;2013
+71;Iran;15,59;2013
+72;Barbados;15,574;2012
+73;Palau;15,096;2013
+74;Brazil;15,038;2013
+75;Iraq;14,951;2013
+76;Thailand;14,394;2013
+77;Montenegro;14,132;2013
+78;Turkmenistan;14,004;2013
+79;Costa Rica;13,876;2013
+80;Algeria;13,32;2013
+81;Serbia;13,02;2013
+82;South Africa;12,867;2013
+83;Colombia;12,424;2013
+84;Dominican Republic;12,186;2013
+85;China;11,907;2013
+86;Jordan;11,783;2013
+87;Peru;11,774;2013
+88;Maldives;11,657;2013
+89;Grenada;11,645;2013
+90;Macedonia;11,612;2013
+91;Tunisia;11,125;2013
+92;Egypt;11,089;2013
+93;Ecuador;10,89;2013
+94;Saint Vincent and the Grenadines;10,491;2013
+95;Saint Lucia;10,488;2013
+96;Dominica;10,343;2013
+97;Albania;9,931;2013
+98;Sri Lanka;9,738;2013
+99;Namibia;9,583;2013
+100;Indonesia;9,561;2013
+101;Bosnia and Herzegovina;9,536;2013
+102;Mongolia;9,435;2013
+103;Jamaica;8,893;2013
+104;Kosovo;8,884;2013
+105;Ukraine;8,79;2013
+106;Belize;8,487;2013
+107;Paraguay;8,093;2013
+108;Armenia;7,776;2013
+109;El Salvador;7,764;2013
+110;Fiji;7,75;2013
+111;Angola;7,736;2013
+112;Bhutan;7,405;2013
+113;Guatemala;7,297;2013
+114;Morocco;7,198;2013
+115;Georgia;7,16;2013
+116;Swaziland;6,685;2013
+117;Guyana;6,546;2013
+118;Philippines;6,536;2013
+119;Cape Verde;6,416;2013
+120;Bolivia;6,131;2013
+121;Congo, Rep.;5,869;2013
+122;Samoa;5,769;2013
+123;Nigeria;5,602;2013
+124;India;5,418;2013
+125;Tonga;5,304;2013
+126;Vietnam;5,294;2013
+127;Uzbekistan;5,168;2013
+128;West Bank and Gaza;4,921;2012
+129;Laos;4,822;2013
+130;Moldova;4,671;2013
+131;Nicaragua;4,643;2013
+132;Pakistan;4,602;2013
+133;Honduras;4,593;2013
+134;Ghana;3,992;2013
+135;Yemen;3,959;2013
+136;Zambia;3,926;2013
+137;Marshall Islands;3,901;2013
+138;Tuvalu;3,645;2013
+139;Micronesia;3,395;2013
+140;Sudan;3,373;2013
+141;Kyrgyzstan;3,213;2013
+142;Côte d'Ivoire;3,211;2013
+143;Mauritania;3,043;2013
+144;Cambodia;3,041;2013
+145;Djibouti;2,999;2013
+146;Vanuatu;2,991;2013
+147;São Tomé and Príncipe;2,971;2013
+148;Bangladesh;2,948;2013
+149;Cameroon;2,83;2013
+150;Kenya;2,795;2013
+151;Papua New Guinea;2,643;2013
+152;Lesotho;2,576;2013
+153;Tajikistan;2,512;2013
+154;Tanzania;2,443;2013
+155;  Nepal;2,245;2013
+156;Senegal;2,242;2013
+157;Chad;2,089;2013
+158;Timor-Leste;2,076;2012
+159;Solomon Islands;2,069;2013
+160;South Sudan;2,03;2013
+161;Afghanistan;1,946;2013
+162;Kiribati;1,856;2013
+163;Zimbabwe;1,832;2013
+164;Benin;1,791;2013
+165;Haiti;1,703;2013
+166;Burkina Faso;1,685;2013
+167;Uganda;1,674;2013
+168;Gambia, The;1,661;2013
+169;Mali;1,642;2013
+170;Sierra Leone;1,544;2013
+171;Rwanda;1,474;2013
+172;Comoros;1,446;2013
+173;Madagascar;1,414;2013
+174;Guinea-Bissau;1,407;2013
+175;Togo;1,391;2013
+176;Ethiopia;1,38;2013
+177;Guinea;1,253;2013
+178;Eritrea;1,196;2013
+179;Mozambique;1,105;2013
+180;Niger;916;2013
+181;Liberia;878;2013
+182;Congo, Dem. Rep.;809;2013
+183;Malawi;780;2013
+184;Burundi;772;2013
+185;Central African Republic;604;2013

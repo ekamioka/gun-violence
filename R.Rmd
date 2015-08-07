@@ -1,0 +1,106 @@
+---
+title: "Some gun violence analysis with Wikipedia data"
+output: html_document
+---
+
+This analysis is a reperformance of http://nbviewer.ipython.org/gist/minrk/4358066
+
+The result expected is to analyze the following relationship ratios:
+- Homicides using guns
+- Intentional homicides
+- Countries by per-capita GDP
+
+To reperform the analysis, was considered the following data:
+
+- totals.csv - List of countries by intentional homicide rate - https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate
+- guns.csv - List of countries by firearm-related death rate - https://en.wikipedia.org/wiki/List_of_countries_by_firearm-related_death_rate
+- gdp.csv - Countries by GDP per capita - https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita
+
+```{r, echo=FALSE}
+library(data.table)
+setwd('~/Desktop/gdp/')
+```
+
+Loading and cleaning the data:
+
+```{r}
+totals = data.table(read.csv('totals.csv', sep = ';', header = TRUE))
+setnames(totals, c("Country","Intentional_Homicides_Rate","Intentional_Homicides_Total_Count","Intentional_Region","Intentional_Subregion","Intentional_Homicides_Year"))
+
+guns = data.table(read.csv('guns.csv', sep = ';', header = TRUE)[,c(1,2,4,5,12)])
+setnames(guns, c("Country","Homicides_Total","Gun_Homicides_Total","Gun_Homicides_Year","Gun_Homicides_Sources_and_Notes"))
+
+gdp = data.table(read.csv('gdp.csv', sep = ';', header = TRUE))
+setnames(gdp, c("GDP_Rank","Country","GDP_Int.dolar","GDP_Year"))
+
+gdp$GDP_Rank = as.numeric(gdp$GDP_Rank)
+```
+
+Merging the datasets
+
+```{r}
+data = merge(totals, guns, by="Country")
+data = merge(data, gdp, by="Country")
+```
+
+Extracting the percenage of homicides using guns from the total of homicides
+
+```{r}
+data$Gun_Percent = 100 * data$Gun_Homicides_Total / data$Homicides_Total
+```
+
+Sorting by "Gun_Homicides_Total" and presenting the top 15 countries by total of homicides related to guns
+
+```{r}
+data = data[order(Gun_Homicides_Total, decreasing = TRUE)]
+head(data[,c(1,7,8,10), with = FALSE], 15)
+```
+
+Sorting by GDP ranking and presenting the top 30 countries by total of homicides related to guns
+```{r}
+top = data[order(GDP_Rank)][1:30,c(1,7,8), with = FALSE]
+top = top[order(Gun_Homicides_Total, decreasing = TRUE)]
+head(top, 10)
+
+#df = head(top, 10)[,1:2, with = F]
+
+#barplot(df, 
+#        main="Countries by Guns Homicides and Total Homicides",
+#        xlab="Countries",
+#        ylab ="per 100.000 people",
+#        col=c("darkblue","red"),
+#        legend = rownames(df))
+```
+
+Adding USA, Canada, and Mexico to all of Europe
+
+```{r}
+americas_countries = c("United States", "Canada", "Mexico")
+reg_data = data[Intentional_Region %in% "Europe"]
+reg_data = rbind(reg_data, data[Country %in% americas_countries])
+
+top_reg = reg_data[order(GDP_Rank)][1:30,c(1,7,8), with = FALSE]
+top_reg = top_reg[order(Gun_Homicides_Total, decreasing = TRUE)]
+head(top_reg, 25)
+```
+
+Comparing US, Canada and UK
+
+```{r}
+americas_countries = c("United States", "Canada", "United Kingdom")
+reg2_data = data[Country %in% americas_countries]
+
+top_reg2 = reg2_data[order(GDP_Rank)][,c(1,7,8), with = FALSE]
+top_reg2 = top_reg2[order(Gun_Homicides_Total, decreasing = TRUE)]
+top_reg2
+```
+Normalize to the US numbers (inverse)
+
+```{r}
+americas_countries = c("United States", "Canada", "United Kingdom")
+reg2_data = data[Country %in% americas_countries]
+
+top_reg2 = reg2_data[order(GDP_Rank)][,c(1,7,8), with = FALSE]
+top_reg2 = top_reg2[order(Gun_Homicides_Total, decreasing = TRUE)]
+top_reg2
+```
